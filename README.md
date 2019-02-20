@@ -12,5 +12,3 @@
 ![登录窗口](https://github.com/blueeeeee/blog/blob/master/showimg/2.PNG)  
 * 博文编辑页面，使用了mavonEditor插件，是基于vue的markdown编辑器插件，本人是通过页面保存博文至数据库。
 ![博文编辑页面](https://github.com/blueeeeee/blog/blob/master/showimg/4.PNG) 
-
-# blog
