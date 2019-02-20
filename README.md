@@ -4,10 +4,10 @@
 目前只包含两个功能，博文展示和用户登录编辑博文，但目前暂未做注册功能，只有本人能登录，因此只设计了数据库的两个表，一个用来存博文，另一个用来验证本人的登录。
 主要界面如下：
 
-![博文列表页](https://github.com/blueeeeee/blog/showimg/1.PNG)  
-![博文详情页](https://github.com/blueeeeee/blog/showimg/3.PNG)  
-![登录窗口](https://github.com/blueeeeee/blog/showimg/2.PNG)  
-![博文编辑页面](https://github.com/blueeeeee/blog/showimg/4.PNG)  
+![博文列表页](https://github.com/blueeeeee/blog/blob/master/showimg/1.PNG)  
+![博文详情页](https://github.com/blueeeeee/blog/blob/master/showimg/3.PNG)  
+![登录窗口](https://github.com/blueeeeee/blog/blob/master/showimg/2.PNG)  
+![博文编辑页面](https://github.com/blueeeeee/blog/blob/master/showimg/4.PNG)  
 
 ## Build Setup
 
